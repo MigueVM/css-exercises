@@ -1,0 +1,19 @@
+p {
+    background:pink;
+      font-family:Verdana, "DejaVu Sans", sans-serif;
+  }
+  
+  #id2 {
+    font-size:32px;
+    color:blue;
+  }
+  
+  #id3 {
+    font-size:24px;
+  }
+  
+  #id4 {
+    font-size:24px;
+    background:green;
+    font-weight:bold;
+  }
